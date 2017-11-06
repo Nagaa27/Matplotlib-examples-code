@@ -32,5 +32,5 @@ file terlebih dahulu dengan format python(.py) lalu membuka salah satu program
 misal animasi_awal.py lalu menekan F8 -> F5. Untuk menyimpan sebagai data baru
 dengan save as.
 
-Jika anda menemukan kesalahan atau error, saya sangat berharap anda menghubungi
-saya melalui media sosial maupun email. Terima kasih.
+Jika anda menemukan kesalahan atau error, saya sangat berharap anda menghubungi saya melalui media sosial maupun email. 
+Terima kasih.
